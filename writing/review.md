@@ -106,7 +106,7 @@ of commits for the following GitHub repository: https://github.com/TeamDevDev/ww
 
 I make `X` commits to the Developer Development web site during this module.
 
-### Course Assessment
+## Course Assessment
 
 Please note that your responses to these questions will neither positively
 or negatively influence your grade in this course. You should answer these
@@ -114,7 +114,7 @@ questions honestly so that the course instructor and the technical leaders can
 best ensure that they are delivering and will continue to deliver appropriate
 instruction in computer science.
 
-#### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -124,7 +124,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-#### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I had plenty of support from my professor, my classmates, the student technical leaders, and the course software as I worked during this module"
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -134,7 +134,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-#### On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this module"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I am closer to mastering the technical and scientific concepts of the course now than I was at the start of this module"
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -144,7 +144,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-#### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past week"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "I felt that I was a part of a community of software engineers during the past week"
 
 Please create a filled checkbox for the level that best describes your perspective
 
@@ -154,7 +154,7 @@ Please create a filled checkbox for the level that best describes your perspecti
 - [] 4: Agree
 - [] 5: Strongly Agree
 
-#### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices"
+### On a scale from 1 to 5, please respond to this assertion from your perspective: "During the past module I made progress in mastering the technical knowledge and skills in software engineering because of my own efforts and choices"
 
 Please create a filled checkbox for the level that best describes your perspective
 
