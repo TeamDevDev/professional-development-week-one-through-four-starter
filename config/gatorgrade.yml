@@ -32,12 +32,6 @@
         fragment: "I Wrote Article 3 URL:"
         count: 1
         exact: true
-    - description: Add a reference to the fourth professional précis article that you wrote
-      check: MatchFileFragment
-      options:
-        fragment: "I Wrote Article 4 URL:"
-        count: 1
-        exact: true
     - description: Add a reference to the first professional précis article that you reviewed
       check: MatchFileFragment
       options:
@@ -54,12 +48,6 @@
       check: MatchFileFragment
       options:
         fragment: "I Reviewed Article 3 URL:"
-        count: 1
-        exact: true
-    - description: Add a reference to the fourth professional précis article that you reviewed
-      check: MatchFileFragment
-      options:
-        fragment: "I Reviewed Article 4 URL:"
         count: 1
         exact: true
     - description: Preserve the first part of the writing template for learning objective attainment
