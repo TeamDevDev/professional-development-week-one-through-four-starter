@@ -66,17 +66,16 @@ then correctly described the learning objective in your own writing.
 
 #### Give a reference to the location of the course web site that contains the learning objectives
 
-
+TODO: Include the URL on the course web site that directly links to the learning objectives
 
 ### Professional Development Précis
 
-TODO: Use the following list to provide a URL for the four professional development
+TODO: Use the following list to provide a URL for the three professional development
 précis articles that you wrote as a part of this module:
 
 - I Wrote Article 1 URL:
 - I Wrote Article 2 URL:
 - I Wrote Article 3 URL:
-- I Wrote Article 4 URL:
 
 TODO: Use the following list to provide a URL for the issue tracker entries
 that you provided for the four professional development précis articles that
@@ -85,7 +84,6 @@ your partners wrote during this module:
 - I Reviewed Article 1 URL:
 - I Reviewed Article 2 URL:
 - I Reviewed Article 3 URL:
-- I Reviewed Article 4 URL:
 
 ### Executive Summaries
 
@@ -98,7 +96,6 @@ contribution to at least one article during every four-week module.
 - I Contributed to Article 1 URL:
 - I Contributed to Article 2 URL:
 - I Contributed to Article 3 URL:
-- I contributed to Article 4 URL:
 
 TODO: How many commits did you make to the Developer Development web site during this
 module? Please note that commits only count if they appear in the final listing
